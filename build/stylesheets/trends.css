@@ -1,0 +1,172 @@
+@charset "utf-8";
+/* line 17, /Users/jonathan.cipriano/.rbenv/versions/ree-1.8.7-2011.03/lib/ruby/gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline; }
+
+/* line 22, /Users/jonathan.cipriano/.rbenv/versions/ree-1.8.7-2011.03/lib/ruby/gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html {
+  line-height: 1; }
+
+/* line 24, /Users/jonathan.cipriano/.rbenv/versions/ree-1.8.7-2011.03/lib/ruby/gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+ol, ul {
+  list-style: none; }
+
+/* line 26, /Users/jonathan.cipriano/.rbenv/versions/ree-1.8.7-2011.03/lib/ruby/gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+/* line 28, /Users/jonathan.cipriano/.rbenv/versions/ree-1.8.7-2011.03/lib/ruby/gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle; }
+
+/* line 30, /Users/jonathan.cipriano/.rbenv/versions/ree-1.8.7-2011.03/lib/ruby/gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q, blockquote {
+  quotes: none; }
+  /* line 103, /Users/jonathan.cipriano/.rbenv/versions/ree-1.8.7-2011.03/lib/ruby/gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+  q:before, q:after, blockquote:before, blockquote:after {
+    content: "";
+    content: none; }
+
+/* line 32, /Users/jonathan.cipriano/.rbenv/versions/ree-1.8.7-2011.03/lib/ruby/gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+a img {
+  border: none; }
+
+/* line 116, /Users/jonathan.cipriano/.rbenv/versions/ree-1.8.7-2011.03/lib/ruby/gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
+  display: block; }
+
+/* line 17, /Users/jonathan.cipriano/.rbenv/versions/ree-1.8.7-2011.03/lib/ruby/gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline; }
+
+/* line 22, /Users/jonathan.cipriano/.rbenv/versions/ree-1.8.7-2011.03/lib/ruby/gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html {
+  line-height: 1; }
+
+/* line 24, /Users/jonathan.cipriano/.rbenv/versions/ree-1.8.7-2011.03/lib/ruby/gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+ol, ul {
+  list-style: none; }
+
+/* line 26, /Users/jonathan.cipriano/.rbenv/versions/ree-1.8.7-2011.03/lib/ruby/gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+/* line 28, /Users/jonathan.cipriano/.rbenv/versions/ree-1.8.7-2011.03/lib/ruby/gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle; }
+
+/* line 30, /Users/jonathan.cipriano/.rbenv/versions/ree-1.8.7-2011.03/lib/ruby/gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q, blockquote {
+  quotes: none; }
+  /* line 103, /Users/jonathan.cipriano/.rbenv/versions/ree-1.8.7-2011.03/lib/ruby/gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+  q:before, q:after, blockquote:before, blockquote:after {
+    content: "";
+    content: none; }
+
+/* line 32, /Users/jonathan.cipriano/.rbenv/versions/ree-1.8.7-2011.03/lib/ruby/gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+a img {
+  border: none; }
+
+/* line 116, /Users/jonathan.cipriano/.rbenv/versions/ree-1.8.7-2011.03/lib/ruby/gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
+  display: block; }
+
+/* line 7, /Users/jonathan.cipriano/Documents/_git/personal/google-trends/source/stylesheets/trends.scss */
+body {
+  background: #EEE;
+  font-family: Lato, sans-serif;
+  font-weight: 400;
+  font-variant: normal;
+  font-size: 12px;
+  color: #333; }
+
+/* line 16, /Users/jonathan.cipriano/Documents/_git/personal/google-trends/source/stylesheets/trends.scss */
+h1 {
+  font-size: 24px;
+  margin: 0 0 10px 0;
+  font-weight: bold; }
+
+/* line 22, /Users/jonathan.cipriano/Documents/_git/personal/google-trends/source/stylesheets/trends.scss */
+#main {
+  overflow: hidden;
+  *zoom: 1;
+  margin: 10px; }
+
+/* line 27, /Users/jonathan.cipriano/Documents/_git/personal/google-trends/source/stylesheets/trends.scss */
+#list-container {
+  overflow: hidden;
+  *zoom: 1; }
+
+/* line 31, /Users/jonathan.cipriano/Documents/_git/personal/google-trends/source/stylesheets/trends.scss */
+a {
+  text-decoration: none;
+  color: #333; }
+
+/* line 36, /Users/jonathan.cipriano/Documents/_git/personal/google-trends/source/stylesheets/trends.scss */
+a:hover {
+  text-decoration: none;
+  color: #00C; }
+
+/* line 42, /Users/jonathan.cipriano/Documents/_git/personal/google-trends/source/stylesheets/trends.scss */
+.term-list {
+  float: left;
+  width: 250px;
+  background: #FFF;
+  margin: 0 10px 10px 0;
+  padding: 10px; }
+  /* line 49, /Users/jonathan.cipriano/Documents/_git/personal/google-trends/source/stylesheets/trends.scss */
+  .term-list h2 {
+    font-weight: bold;
+    margin: 0 0 10px 0;
+    font-size: 16px; }
+  /* line 55, /Users/jonathan.cipriano/Documents/_git/personal/google-trends/source/stylesheets/trends.scss */
+  .term-list ul {
+    list-style-type: none;
+    line-height: 16px; }
+
+/* line 61, /Users/jonathan.cipriano/Documents/_git/personal/google-trends/source/stylesheets/trends.scss */
+#footer {
+  margin: 25px 0 0 0; }
+  /* line 63, /Users/jonathan.cipriano/Documents/_git/personal/google-trends/source/stylesheets/trends.scss */
+  #footer a {
+    color: #999; }
